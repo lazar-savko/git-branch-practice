@@ -1,6 +1,6 @@
 Apple
 Banana
-Strawberry
 Peach
 Pear
 Blueberry
+Apricot
